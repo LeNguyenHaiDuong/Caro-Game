@@ -7,7 +7,7 @@
 ## 🚀 Run the Program
 You can download the demo build from the link below:
 
-👉 [**Download CaroOfficial.exe (Debug build)**](https://github.com/<username>/<repo>/raw/main/Debug/CaroOfficial.exe)
+👉 [**Download CaroOfficial.exe (Debug build)**](https://github.com/LeNguyenHaiDuong/Caro-Game/releases/latest/download/CaroOfficial.exe)
 
 After downloading, open the `.exe` file to run directly on Windows (requires a Unicode-supported console).
 
